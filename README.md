@@ -7,6 +7,8 @@ can follow along, re-run everything at home, and keep going.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/judahsan/workshop-arc)
 
+📊 [View the presentation slides](https://docs.google.com/presentation/d/1uQe7ROHJk7FRTMP71GbleJbMKaMGSWC9/edit?usp=sharing&ouid=100985160309934551572&rtpof=true&sd=true)
+
 
 ## What you will learn
 
