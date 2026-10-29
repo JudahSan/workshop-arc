@@ -1,0 +1,10 @@
+{
+  "name": "Ruby Workshop",
+  "build": { "dockerfile": "../Dockerfile" },
+  "postCreateCommand": "ruby -v",
+  "customizations": {
+    "vscode": {
+      "extensions": ["Shopify.ruby-lsp"]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+name: Bug / error
+description: Something isn't working as expected
+labels: [bug]
+body:
+  - type: input
+    id: lesson
+    attributes:
+      label: Lesson or challenge
+      placeholder: "e.g. lessons/03-strings or challenges/easy_greet_names.rb"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened (paste the error)
+    validations:
+      required: true
