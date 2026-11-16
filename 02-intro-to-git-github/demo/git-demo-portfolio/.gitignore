@@ -1,0 +1,9 @@
+# Never commit real secrets
+.env
+
+# macOS
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/

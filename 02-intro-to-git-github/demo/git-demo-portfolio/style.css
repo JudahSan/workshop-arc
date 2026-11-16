@@ -1,0 +1,35 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 640px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  color: #222;
+  line-height: 1.6;
+}
+
+header {
+  border-bottom: 2px solid #e63946;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+header h1 { font-size: 2rem; }
+header p  { color: #555; }
+
+h2 {
+  font-size: 1.2rem;
+  margin: 1.5rem 0 0.5rem;
+  color: #e63946;
+}
+
+a { color: #e63946; }
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+  font-size: 0.85rem;
+  color: #888;
+}
