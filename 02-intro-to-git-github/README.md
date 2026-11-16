@@ -2,6 +2,8 @@
 
 Git tracks changes to your work. GitHub hosts Git repositories and helps people collaborate.
 
+📊 [View the presentation slides](https://docs.google.com/presentation/d/1Xt086h0OEH_Cx0DcX_QjjH_zmCU_Krn3/edit?usp=sharing&ouid=100985160309934551572&rtpof=true&sd=true)
+
 ## What you'll learn
 
 - The difference between Git and GitHub
