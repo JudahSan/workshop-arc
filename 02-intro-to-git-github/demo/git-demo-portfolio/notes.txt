@@ -1,0 +1,10 @@
+Workshop notes
+==============
+
+Today I learned:
+- Git tracks changes to files over time
+- Every commit is a snapshot, not a diff
+
+Questions I still have:
+- What happens when two people edit the same line?
+  (we are about to find out...)
